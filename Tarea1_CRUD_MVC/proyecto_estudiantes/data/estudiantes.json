@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellido": "Pérez",
+    "email": "ana@escuela.edu",
+    "carnet": "EST2026001",
+    "notas": {
+      "Matemática": [18, 19, 20],
+      "Inglés": [16, 17]
+    },
+    "materias": ["Inglés", "Matemática"]
+  }
+]
